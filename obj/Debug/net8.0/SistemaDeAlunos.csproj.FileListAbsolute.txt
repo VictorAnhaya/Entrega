@@ -1,0 +1,44 @@
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.exe
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.deps.json
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.runtimeconfig.json
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfoInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfo.cs
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\refint\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.genruntimeconfig.cache
+C:\Users\ANTONIOADAIRCABREIRA\SistemaDeAlunos\obj\Debug\net8.0\ref\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.exe
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.deps.json
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.runtimeconfig.json
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfoInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfo.cs
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.sourcelink.json
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\refint\SistemaDeAlunos.dll
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.genruntimeconfig.cache
+C:\Users\ANTONIOADAIRCABREIRA\Desktop\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\ref\SistemaDeAlunos.dll
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.exe
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.deps.json
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.runtimeconfig.json
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\bin\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfoInputs.cache
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.AssemblyInfo.cs
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.sourcelink.json
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.dll
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\refint\SistemaDeAlunos.dll
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.pdb
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\SistemaDeAlunos.genruntimeconfig.cache
+C:\Users\Victor Anhaya\OneDrive\Desktop\Entrega\C-Sharps\SistemaDeAlunos\obj\Debug\net8.0\ref\SistemaDeAlunos.dll
